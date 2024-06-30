@@ -1,5 +1,5 @@
-resnet50 train loss 0.000   val_accuracy 0.874 batchsize 512 epoch 100
+# Readme
 
-resnet18 train loss 0.000    val_accuracy 0. 868 batchsize 512 epoch 100
+### If you want to use different models , just change the weight_pth and model_net in the main(), and then run . There is only a model-a.ipynb you should run.
 
-![image-20240619132817046](./output.png)
+ 
